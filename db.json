@@ -1,0 +1,43 @@
+{
+  "vehicles": [
+    {
+      "id": 1,
+      "images": [
+        "https://cdni.autocarindia.com/Utils/ImageResizer.ashx?n=https://cdni.autocarindia.com/ExtraImages/20200403011929_Toyota-Corolla-Altis.jpg&w=700&q=90&c=1"
+      ],
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "mileage": 15000,
+      "price": 18000,
+      "status": "Available",
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "images": [
+        "https://imgd.aeplcdn.com/370x208/n/cw/ec/27074/civic-exterior-right-front-three-quarter-148155.jpeg?q=80"
+      ],
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "mileage": 20000,
+      "price": 17000,
+      "status": "Available",
+      "isFavorite": false
+    },
+    {
+      "id": 3,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/7/75/2018_Ford_Focus_ST-Line_X_1.0.jpg"
+      ],
+      "make": "Ford",
+      "model": "Focus",
+      "year": 2021,
+      "mileage": 12000,
+      "price": 20000,
+      "status": "Available",
+      "isFavorite": true
+    }
+  ]
+}
